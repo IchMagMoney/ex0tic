@@ -12,7 +12,15 @@ The Skyblock Exotic Finder Mod allows you to search for exotic armors and items 
 
 How to Download:
 Need Forge 1.8.9
-Download the mod
-Press Windows + R 
-.mincraft -> mods 
-Put the mod in there
+Need Chat-Triggers
+Download the .zip
+dezip the file
+go do .minecraft / config / chat-triggers/ modules  and put it in there
+
+When in Game do /polar
+
+Search Exotic
+
+ALl on
+
+Good Luck sniping :D
